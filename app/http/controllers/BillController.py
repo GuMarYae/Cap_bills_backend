@@ -55,4 +55,4 @@ class BillController(Controller):
         Bill.where("id", id).delete()
         return bill
     
-    #update
+    #update2
